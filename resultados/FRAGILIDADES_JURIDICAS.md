@@ -1,283 +1,236 @@
-# Memorando — Fragilidades Jurídicas do Edital de Concessão CISPAR
+# Memorando — Fragilidades Jurídicas do Edital de Concessão CISPAR (versão verificada)
 
-*Análise de exposição jurídica do Edital de Concessão (manejo de RSU) e seus anexos.*
-
----
-
-## Nota metodológica (ler antes)
-
-Este memorando **ultrapassa** a varredura neutra: aqui há juízo de exposição jurídica —
-o que, no pipeline, é a Fase 3 (sua decisão). Ele parte dos descompassos já inventariados
-(itens `C-xxx` da consolidação) e os conecta a teses.
-
-Três ressalvas, que são limites do trabalho e não formalidade:
-
-1. **Dispositivos marcados "[verificar]".** Todos os artigos citados precisam de
-   confirmação de redação e vigência antes de ir a uma peça. O marco do saneamento
-   (Lei 14.026/2020) reescreveu vários dispositivos da Lei 11.445/2007 — atenção redobrada.
-2. **Sem jurisprudência fabricada.** Onde indico orientação de tribunal de contas, é
-   **direção de pesquisa**, não citação. Nenhum número de acórdão foi inventado; localizá-los
-   é tarefa da Fase 4 (TCU/TCE-MG autoritativos).
-3. **Gradação de exposição é estimativa de advogado, não certeza.** "Alta/Média/A confirmar"
-   reflete o quanto a tese se sustenta **só com os autos** vs. o quanto depende de fato externo.
+*Concessão do Serviço Público de Manejo de Resíduos Sólidos Urbanos (SMRSU) — CISPAR.
+Cada fragilidade indica o **ponto no edital** e o **ponto no documento**. Dispositivos
+conferidos em fontes oficiais; encampação/caducidade e prazo de publicidade reavaliados.*
 
 ---
 
-## Triagem — onde está a exposição
+## O que a verificação mudou (registro)
 
-| # | Fragilidade | Exposição | Natureza do risco | Itens |
-|---|---|---|---|---|
-| **I** | **Competência do CISPAR para conceder / cadeia de titularidade** | **Alta** | Nulidade da concessão / impugnação ao edital | C-106, C-108, C-109, C-111, C-105 |
-| **II** | Regulação por agência (ARISB) não comprovada nos autos | Média–Alta | Vício de legalidade (saneamento exige regulador) | C-112, C-113, C-116 |
-| **III** | Vícios formais do instrumento (vinculação/clareza) | Média | Impugnação; insegurança na execução | C-001 a C-018 |
-| **IV** | Habilitação e competitividade | A confirmar | Impugnação (restritiva) **ou** garantia insuficiente | C-019, C-020, C-021 |
-| **V** | Equilíbrio econômico-financeiro e matriz de riscos | Média | Litígio futuro de reequilíbrio | C-002, C-003, C-046, C-049 |
-| **VI** | Tarifa (proxy de água) e tarifa-base em branco | A confirmar | Questionamento do critério de remuneração | C-024, C-007, C-082 |
-| **VII** | Indenização e extinção (limitações) | Média | Conflito com Lei 8.987; judicialização | C-022, C-049, C-073, C-074 |
-| **VIII** | Anexos ausentes / incompletos | Média | Edital incompleto (art. 25, Lei 14.133) | C-023, C-025 |
+Verifiquei os dispositivos e revi quatro pontos do memorando anterior:
 
----
+- **Reforço (não hedge):** manejo de RSU **é saneamento básico** (Lei 11.445/2007, art. 3º,
+  I, "d"), logo o marco da Lei 14.026/2020 incide por inteiro. E a Lei 11.107/2005, art. 4º,
+  exige **autorização expressa** no protocolo para gestão associada de serviços — o que torna
+  o defeito do Estatuto (art. 10) um vício concreto, não uma dúvida.
+- **Caiu — prazo de publicidade.** Lei 14.133/2021, art. 55: mínimo de **8 dias úteis**
+  (critério maior desconto). Da publicação (02/06/2026) à entrega (14/08/2026) há ~50 dias
+  úteis. Prazo **suficiente**; deixa de ser fragilidade.
+- **Caiu — caducidade sem indenização prévia.** Encampação é art. **37** (indenização
+  prévia); caducidade é art. **38** (**independe** de indenização prévia). A dispensa de
+  prévia na caducidade é **conforme à lei** — retiro a tese.
+- **Mantidas e ancoradas:** as demais, abaixo.
 
-## I. Competência para conceder e cadeia de titularidade — *a fragilidade-raiz*
-
-**O que há.** A concessão é outorgada pelo CISPAR como "Poder Concedente". Mas a base
-dessa competência é, ao mesmo tempo, **internamente contraditória e documentalmente
-incompleta**:
-
-- O **Estatuto, art. 10** — o artigo que define expressamente "as competências cujo
-  exercício se transferiu ao Consórcio" — transfere ao CISPAR apenas *"estudo e elaboração
-  de projetos, planejamento, fiscalização e regulação dos serviços públicos"*. **Não** há
-  "prestação" e, sobretudo, **não há "conceder/concessão"** (C-106). A "prestação" aparece
-  só no art. 8º §1º IX, em rol genérico de "gestão associada", e o parágrafo único do art. 10
-  remete competências adicionais a **Contrato de Programa**.
-- A competência de **conceder a execução dos serviços de RSU "nos termos da Lei 8.987/95"**
-  surge apenas no **"projeto de aditivo" de 08/12/2023** (C-080), peça nominada "minuta para
-  deliberação e votação", **sem registro de aprovação** no próprio documento (C-111).
-- O edital invoca um **"2º Termo Aditivo"** delegando a titularidade do SMRSU — peça que
-  **não consta dos autos** (C-108).
-- A delegação opera por **Contrato de Programa**, mas só **9 dos 19** municípios constam com
-  lei de ratificação do SMRSU (C-109), e a numeração dos contratos de programa **salta de
-  006 para 008** (C-105).
-
-**Fundamento [verificar].**
-- Lei 11.107/2005, art. 4º (o protocolo de intenções deve indicar os serviços objeto da
-  gestão associada e a forma de delegação) e art. 13 (contrato de programa como instrumento
-  da delegação) [verificar].
-- Lei 11.445/2007, art. 8º (titularidade municipal; gestão associada via consórcio/convênio,
-  redação da Lei 14.026/2020) [verificar].
-- Lei 8.987/1995, art. 2º, I e art. 14 (concessão precedida de licitação **pelo poder
-  concedente** competente) [verificar].
-
-**Tese / risco.** Há fundamento sólido para sustentar que **a competência do CISPAR para
-atuar como Poder Concedente desta concessão não está demonstrada nos autos** — o ato
-estatutário que transferiu competências (art. 10) não inclui conceder; a competência de
-conceder depende de aditivo cuja aprovação/ratificação não foi juntada; e a cadeia de
-contratos de programa é parcial. Um concorrente, o Ministério Público ou o Tribunal de
-Contas pode arguir **nulidade da delegação** (e, por arrastamento, do edital). É a tese de
-maior potência **e** a de maior necessidade de fechamento documental.
-
-**O que confirmar / o que requerer.** Pedir formalmente, em esclarecimento/impugnação:
-(i) o "2º Termo Aditivo" referido no preâmbulo; (ii) a ata de aprovação e as leis
-ratificadoras do aditivo de 2023; (iii) as leis de ratificação dos 19 municípios e os
-contratos de programa nº 007 e seguintes. **Se esses documentos existirem e forem
-consistentes, a fragilidade I cai muito.** Se não, é o eixo de uma impugnação.
+Convenção: 🔴 exposição alta · 🟠 média · 🟡 a confirmar com fato externo.
 
 ---
 
-## II. Regulação por agência reguladora não comprovada
+## I. 🔴 Competência do CISPAR para conceder — vício na origem
 
-**O que há.** A minuta afirma que a **ARISB-MG já integra a administração indireta de
-todos os municípios consorciados** e regula o contrato; a peça institucional, porém,
-condiciona a regulação à **celebração de convênio** pelo Presidente, **após indicação da
-agência pela Assembleia Geral** (C-112, C-116). Nem o convênio CISPAR–ARISB nem o ato de
-indicação constam dos autos. O edital ainda se ancora na **Resolução CISPAR nº 01/2023**,
-não juntada (C-113).
+**Fragilidade.** O CISPAR licita como Poder Concedente, mas **não há, no ato constitutivo,
+autorização expressa para conceder/prestar o SMRSU** — e a Lei 11.107/2005, art. 4º, §§ 1º
+e 3º, exige que o **protocolo de intenções autorize expressamente** a gestão associada com
+prestação de serviços. O que existe:
 
-**Fundamento [verificar].** Lei 11.445/2007, arts. 22–23 (regulação por entidade
-reguladora) e o reforço da Lei 14.026/2020 (regulação como condição de validade; normas
-de referência da ANA) [verificar]; Lei 11.107/2005, art. 11 (a entidade só integra a
-administração indireta dos entes que a ela aderiram) [verificar].
+| Onde | Texto |
+|---|---|
+| **Estatuto, art. 10** (pág. 11) | Transfere ao CISPAR **apenas** "*estudo e elaboração de projetos, planejamento, fiscalização e regulação*". **Não** há "prestação" nem "conceder". O parágrafo único remete competências adicionais a Contrato de Programa. |
+| **Estatuto, art. 8º, §1º, IX** (pág. 10) | Menciona "prestação" só em rol genérico de "gestão associada" — em conflito com o art. 10, que é o artigo específico das competências transferidas (este é o item **C-106**). |
+| **Edital, preâmbulo** (pág. 3, linhas "Foi assinado o 2º Termo Aditivo…") | Invoca um **"2º Termo Aditivo ao Contrato de Consórcio que delega ao CISPAR a titularidade do SMRSU"** — peça **que não consta dos autos** (**C-108**). |
+| **Edital, def. 1.1.53** (Glossário) | "PODER CONCEDENTE: o CISPAR, nos termos da Lei 8.987/1995 e do art. 8º, §1º, da Lei 11.445/2007" — fundamento de competência que repousa nas peças acima. |
+| **Termo Aditivo (projeto de 08/12/2023)** | É onde **aparece pela primeira vez** a competência de "conceder nos termos da Lei 8.987/95" (**C-080**), mas como "minuta para deliberação", **sem prova de aprovação/ratificação** (**C-111**). |
 
-**Tese / risco.** Concessão de saneamento **sem regulador validamente constituído e
-vinculado ao titular** é vício de legalidade relevante no regime pós-2020. A afirmação de
-que a ARISB regula "todos" os consorciados conflita com a exigência de convênio a celebrar —
-e a ARISB aparece representada por prefeito de município **não consorciado**, o que agrava a
-dúvida sobre o vínculo.
+**Norma (verificada).** Lei 11.107/2005, art. 4º (o protocolo deve **prever expressamente**
+a autorização para a gestão associada de serviços) e art. 5º (eficácia mediante ratificação
+por lei de cada ente). Lei 11.445/2007, art. 8º, §1º (titularidade; delegação) e art. 10
+(prestação por entidade fora da administração do titular **depende de concessão precedida
+de licitação**).
 
-**O que confirmar.** Convênio CISPAR–ARISB, ato de indicação pela Assembleia, e se os
-municípios do CISPAR efetivamente aderiram à ARISB. Pesquisa sugerida (Fase 4): orientação
-do TCE-MG/TCU sobre **regulação como condição de validade de concessão de saneamento** após
-a Lei 14.026/2020 [localizar precedentes].
-
----
-
-## III. Vícios formais do instrumento — violação à vinculação e à clareza
-
-**O que há.** O edital/minuta carregam um conjunto de **contradições internas verificáveis**
-(as 18 IRREGULAR de origem contratual/editalícia): remissões cruzadas quebradas (C-004
-reajuste→cl. errada; C-005 garantias→cl. errada; C-006 cláusula inexistente; C-008
-autoridade recursal contraditória); **prazos que se contradizem** com cláusula de prevalência
-ativa (C-009/C-011/C-012, Quadro 5 × marcos; C-010); **divergências numéricas** (C-001
-inadimplência 60×90 dias; C-007 tarifa 2,867×2,8567); alocação de risco oposta para o mesmo
-fato (C-002, C-003); e falhas de numeração/terminologia (C-014, C-017, C-018, C-016).
-
-**Fundamento [verificar].** Lei 14.133/2021, art. 5º (princípios — segurança jurídica,
-vinculação ao edital) e art. 25 (o edital deve ser claro e preciso) [verificar]; Lei
-8.987/1995, art. 18 (exigências do edital de concessão) [verificar]. Princípio da
-vinculação ao instrumento convocatório e do julgamento objetivo.
-
-**Tese / risco.** Cada contradição é, isoladamente, **sanável por errata** — mas o
-**conjunto** sustenta tese de que o instrumento não tem a clareza exigida, abrindo:
-(i) pedido de esclarecimento/impugnação para correção prévia; (ii) na execução, disputa
-interpretativa (qual prazo prevalece? quem julga o recurso? 60 ou 90 dias?). O ponto de
-atenção real é **C-002 e C-003**: contradição sobre **alocação de risco** (inadimplência de
-municípios; segurabilidade de força maior) não é mera redação — vira **litígio de
-reequilíbrio** (ver bloco V).
-
-**O que fazer.** Triar: as remissões quebradas e divergências numéricas → errata (custo
-baixo de suscitar, alto valor de saneamento prévio). As contradições de risco → tratar como
-fragilidade V.
+**Avaliação.** A competência para conceder não está demonstrada no instrumento que a deveria
+conter (Estatuto), surge apenas em aditivo não comprovadamente aprovado e invoca um "2º Termo
+Aditivo" inexistente nos autos. **Há fundamento direto para arguir nulidade da delegação** —
+e, por consequência, do edital. É a tese de maior alcance.
 
 ---
 
-## IV. Habilitação e competitividade — *faca de dois gumes*
+## II. 🔴 Cadeia de titularidade incompleta e contratos de programa
 
-**O que há.** A qualificação econômico-financeira exige apenas certidão de falência +
-balanço de 2 exercícios — **sem patrimônio líquido mínimo, índices ou garantia** (C-020);
-o **capital social mínimo (R$ 87,1 mi)** é exigido só **após** a adjudicação (C-063, C-026
-da licitação). A qualificação técnica fixa quantitativos mínimos (110/100/100 t/dia),
-veda tecnologia experimental e limita a 3 atestados (C-021).
+**Fragilidade.** O edital afirma titularidade delegada, mas comprova **menos da metade** do
+consórcio, e a relação consórcio–municípios se dá por **contratos de programa de 2025**,
+instrumento sob restrição no marco do saneamento.
 
-**Fundamento [verificar].** Lei 14.133/2021, art. 67 (qualificação técnica) e art. 69
-(qualificação econômico-financeira) [verificar]; Lei 8.987/1995, art. 14 (competitividade)
-[verificar].
+| Onde | Constatação |
+|---|---|
+| **Edital, preâmbulo** (pág. 3) | Lista **9** Leis Municipais de ratificação do SMRSU (Arapuá a Serra do Salitre), enquanto o consórcio tem **18/19** entes (Protocolo/Estatuto 18; Termo Aditivo 19) — **C-109**. |
+| **Edital, preâmbulo** (págs. 3-4) | Relaciona os Contratos de Programa **001 a 010/2025/RS** — e a numeração **pula o 007** (de 006/Patos de Minas para 008/Presidente Olegário) — **C-105**. |
+| **Termo Aditivo Consolidado, art. 1º** × **Protocolo/Estatuto, art. 1º/15** | Lista de consorciados **18 × 19** (insere **João Pinheiro**, inciso VI) — **C-104**. |
 
-**Tese / risco — dupla.** Esta fragilidade corta para os dois lados, e **depende de fato
-externo** (por isso "a confirmar"):
-- *Restritividade:* os quantitativos técnicos podem reduzir o universo de competidores —
-  mas isso **só se afirma com o dado de mercado** (quantas empresas atendem). Sem o número,
-  não é tese fechada.
-- *Garantia insuficiente:* o inverso — habilitar economicamente quem só apresenta balanço,
-  com capital robusto exigido só depois, expõe o consórcio a **adjudicar a quem não comprova
-  capacidade de bancar um contrato bilionário**. Tese de defesa do interesse público, não de
-  impugnação do licitante.
+**Norma (verificada).** Lei 11.107/2005, art. 13 (contrato de programa para gestão associada)
+e art. 13, §3º (**é nula** a cláusula que atribua ao contratado o exercício de planejamento,
+regulação e fiscalização sobre serviços por ele próprio prestados). Lei 11.445/2007, art. 10
+(redação da Lei 14.026/2020): a delegação a entidade fora da administração do titular exige
+**concessão + licitação**, **vedada a disciplina por contrato de programa, convênio ou
+instrumento precário**.
 
-**O que confirmar.** Levantamento do mercado (potenciais licitantes que atendem os
-quantitativos) e a adequação da exigência econômica ao porte (VPL ~R$ 1,74 bi). Pesquisa
-sugerida: orientação do TCU sobre **capacidade econômico-financeira em concessões de
-saneamento** (Decreto 10.710/2021 e normas de referência da ANA) [verificar e localizar].
-
----
-
-## V. Equilíbrio econômico-financeiro e matriz de riscos
-
-**O que há.** Duas contradições de **alocação de risco** (não de redação):
-- **C-002:** inadimplência dos municípios (tarifa RPU) é alocada **integralmente à
-  concessionária** na Matriz (C.8), mas o corpo (cl. 36.17) e o Anexo 4 (1.2.5) **admitem
-  reequilíbrio** por essa mesma inadimplência. Regra oposta para o mesmo risco.
-- **C-003:** o teste de segurabilidade que aloca força maior usa **janela de 2 anos (N.1)
-  e de 1 ano (N.3)**.
-
-Some-se a isso o reajuste por cesta IRT enquanto outras rubricas usam IPCA puro (C-046 —
-classificado CONFORME, mas é fonte de disputa) e a premissa tributária **pré-EC 132/2023**
-fixada como risco (C-054).
-
-**Fundamento [verificar].** Lei 8.987/1995, art. 9º e art. 10 (equilíbrio
-econômico-financeiro) [verificar]; Lei 14.133/2021, art. 22 e §§ (matriz de riscos)
-[verificar].
-
-**Tese / risco.** Contradição sobre quem arca com um risco é **combustível de litígio de
-reequilíbrio**: na execução, a concessionária invocará a cláusula que lhe favorece, o poder
-concedente a outra. A indefinição **não some** com a assinatura — ela se materializa no
-primeiro pleito. Atenção estratégica: a tese aqui pode ser tanto de **impugnação** (exigir
-coerência prévia) quanto de **reserva** (deixar a ambiguidade para invocá-la depois) — essa
-é decisão sua, o sistema não a faz.
-
-**O que confirmar.** Cotejo integral da Matriz (Anexo 5) com as cláusulas 22, 36 e o Anexo 4
-para mapear todas as alocações divergentes. A reforma tributária (EC 132/2023 e LC 214/2025)
-exige revisão da premissa de C-054 [verificar vigência/efeitos].
+**Avaliação.** Dois pontos exigem resposta: (i) faltam as leis de ratificação dos demais
+municípios e a definição da abrangência territorial efetiva (o serviço cobre 9 ou 19?);
+(ii) a vedação do art. 10 da Lei 11.445 ao contrato de programa para saneamento alcança a
+estrutura — distinção relevante: a gestão associada município→consórcio sobrevive porque o
+consórcio integra a administração indireta dos consorciados, **mas só se houver a autorização
+expressa do art. 4º da Lei 11.107**, que é justamente o que falta (bloco I). A lacuna do
+nº 007 deve ser explicada.
 
 ---
 
-## VI. Tarifa atrelada a volume de água e tarifa-base em branco
+## III. 🔴 Regulação por agência não comprovada
 
-**O que há.** A remuneração do serviço de **resíduos** é cobrada como tarifa **por m³ de
-água faturado** (proxy de geração), e o critério de julgamento é o maior desconto sobre essa
-tarifa (C-082); a **tarifa-base RSD** consta "R$ [•]/m³", **em branco** na minuta (C-024);
-há divergência numérica na tarifa de Arapuá (C-007).
+**Fragilidade.** A minuta dá a regulação como já existente; a peça institucional a
+condiciona a convênio ainda não juntado.
 
-**Fundamento [verificar].** Lei 11.445/2007, arts. 29–35 (sustentabilidade econômica e
-estrutura tarifária do saneamento) [verificar]; Lei 8.987/1995, art. 9º (política tarifária)
-[verificar].
+| Onde | Texto |
+|---|---|
+| **Minuta, preâmbulo / def. 1.2.1** (págs. 5-8) | Afirma que a **ARISB-MG integra a administração indireta de todos os municípios consorciados** e regula o contrato (**C-112**). |
+| **Termo Aditivo (projeto), art. 7º, §4º** (pág. 3) | Condiciona a regulação à **celebração de convênio pelo Presidente, após indicação da Agência pela Assembleia Geral** — convênio e indicação **não constam** (**C-112**, **C-116**). |
+| **Edital, preâmbulo** (pág. 3) | Funda-se também na **Resolução CISPAR nº 01/2023**, **não juntada** (**C-113**). |
 
-**Tese / risco.** "A confirmar". Usar consumo de água como base de cobrança de resíduos é
-prática conhecida no setor, mas **vulnerável a questionamento** de correlação (quem consome
-mais água não necessariamente gera mais resíduo) e de modicidade. A tarifa-base em branco é
-normal (definida na proposta), mas exige que **todos** os demais parâmetros estejam fechados
-— o que reforça a importância de sanar C-007. Pesquisa sugerida: posição regulatória/ANA
-sobre **base de cálculo de tarifa de RSU** [localizar].
+**Norma (verificada).** Lei 11.445/2007, arts. 22-23 (regulação por entidade reguladora) e o
+reforço da Lei 14.026/2020 (regulação e normas de referência da ANA). Lei 11.107/2005, art. 6º,
+§1º (consórcio integra a administração indireta **dos entes que a ele aderiram** — não de
+terceiros).
 
----
-
-## VII. Indenização e extinção — limitações que conflitam com a Lei 8.987
-
-**O que há.** O critério de indenização **remete a regras da ANA ainda não editadas**, com
-o Anexo 6 apenas subsidiário (C-022); a indenização na **caducidade** e na **encampação** é
-**limitada**, com amplos descontos e sem lucros cessantes (C-073, C-074, C-049); a caducidade
-dispensa indenização prévia, ao contrário da encampação (descompasso de momento).
-
-**Fundamento [verificar].** Lei 8.987/1995, art. 35 (extinção), art. 36 (encampação —
-indenização **prévia**) e art. 37 (caducidade) [verificar]; art. 23, X (bens reversíveis)
-[verificar].
-
-**Tese / risco.** Cláusulas que **restringem a indenização de bens reversíveis não
-amortizados** ou condicionam o cálculo a norma futura tendem a conflitar com o regime legal
-da Lei 8.987 (indenização das parcelas não amortizadas). É tese de **desequilíbrio na
-alocação extintiva** — relevante para o financiador e para a precificação da proposta.
-
-**O que confirmar.** Se a remissão à ANA tem amparo na Lei 14.026/2020 (art. 4º-A da Lei
-9.984/2000) [verificar] e se as regras existem hoje; cotejo do Anexo 6 com o art. 36 da
-Lei 8.987.
+**Avaliação.** No regime pós-2020, regulador validamente constituído e **vinculado ao titular**
+é condição de regularidade. A afirmação de que a ARISB já regula "todos" conflita com a
+exigência de convênio a celebrar, e a ARISB aparece representada por prefeito de município
+**não consorciado** — o que reforça a dúvida sobre o vínculo. Liga-se ao art. 13, §3º da Lei
+11.107: a regulação tem de ser de **terceiro independente**, não do próprio prestador.
 
 ---
 
-## VIII. Anexos ausentes ou incompletos — edital incompleto
+## IV. 🟠 Vícios formais do instrumento (vinculação ao edital)
 
-**O que há.** O **Anexo 11 (apólices de seguro)** não foi juntado, embora seja mitigador
-de risco referenciado na cláusula 35 e na Matriz (C-025); o **Anexo 7 (arrolamento de bens)**
-está com campos em branco (C-023).
+**Fragilidade.** Contradições internas verificáveis que comprometem a clareza exigida.
+Anchors (todas na Minuta de Contrato salvo indicação):
 
-**Fundamento [verificar].** Lei 14.133/2021, art. 25 (o edital e seus anexos integram o
-ato e devem permitir a formulação da proposta) [verificar]; Lei 8.987/1995, art. 18
-[verificar].
+| Item | No edital/contrato | O descompasso |
+|---|---|---|
+| **C-002** | Anexo 5 (Matriz) **C.8** (pág. 272) × cl. **36.17** (pág. 105) × Anexo 4 **1.2.5** (págs. 256-257) | Inadimplência dos municípios: Matriz aloca à concessionária; corpo e Anexo 4 dão reequilíbrio. |
+| **C-003** | Anexo 5 **N.1 e N.3** (págs. 283-284) | Segurabilidade de força maior: janela de **2 anos × 1 ano**. |
+| **C-001** | cl. **22.5** (pág. 73) × Anexo 4 **2.9** (pág. 260) | Inadimplência do município: **60 × 90 dias**. |
+| **C-004** | cl. **27.2.1** (pág. 82) | Reajuste remetido à "cl. 24" (é a Outorga Fixa; reajuste é a 26). |
+| **C-005** | cl. **34.4** (págs. 95-96) | Garantias remetidas à "31.3" (é a sede da SPE; modalidades na 34.3). |
+| **C-006** | cl. **35.11.1** (págs. 98-99) | Remete à "35.10.1" inexistente. |
+| **C-008** | **Edital, itens 17.3 e 17.3.1** (págs. 59-60) | Autoridade do recurso: Presidente do CISPAR × Comissão Especial. |
+| **C-007** | **Anexos do Edital, Plano de Negócios, Quadro 39** (pág. 183) | Tarifa de Arapuá **2,867 × 2,8567**. |
+| **C-009/011/012** | Caderno, **Quadro 5** (pág. 201) × marcos de fase | Prazos **84×85**, **48×49**, **24×25** meses, com cláusula de prevalência do Quadro 5. |
+| **C-013** | Quadro 5 (pág. 201) × **Apêndice A.B** (págs. 207-211) | Quem executa o PRAD: concessionária × municípios. |
+| **C-015** | **Estudos Socioambientais, item 5.2 / Quadro 20** (págs. 81-82) | Catadores: "7" × "76". |
+| **C-016/017/018** | Anexo 15 × Caderno 6.2.f; Anexo 3 item 7.8; Anexo 16 | Referência ao "Anexo 19"; sigla "UTL"; "acessórias × extraordinárias". |
 
-**Tese / risco.** Anexo relevante "a ser disponibilizado separadamente" fragiliza a
-**completude** do edital: o licitante precisa precificar seguro e bens a reverter sem o
-documento. Tese de impugnação por **deficiência instrutória**, ou ao menos pedido de juntada.
+**Norma (verificada).** Lei 14.133/2021, art. 25 (o edital e anexos devem permitir a
+formulação da proposta) e art. 5º (segurança jurídica, vinculação); princípio da vinculação
+ao instrumento convocatório.
+
+**Avaliação.** A maioria é sanável por errata e cabe em pedido de esclarecimento. **C-002 e
+C-003 não são redação**: são contradição sobre **alocação de risco** — combustível de litígio
+de reequilíbrio (bloco V).
 
 ---
 
-## Matriz priorizada para a Fase 4 (pesquisa targetada)
+## V. 🟠 Equilíbrio econômico-financeiro e matriz de riscos
 
-Ordem sugerida de aprofundamento (você decide o que entra):
+**Fragilidade.** Além de C-002/C-003, a premissa tributária está congelada antes da reforma.
 
-1. **Competência do consórcio para conceder** (bloco I) — requerer os documentos faltantes
-   **e** pesquisar precedentes de **nulidade de concessão por consórcio sem competência
-   delegada** (TCE-MG/TCU) [localizar].
-2. **Regulação por agência** (bloco II) — precedentes pós-Lei 14.026/2020 [localizar].
-3. **Contradições de alocação de risco** (bloco V, C-002/C-003) — confirmar todas as
-   divergências da Matriz.
-4. **Capacidade econômico-financeira × restritividade** (bloco IV) — depende de levantamento
-   de mercado.
-5. **Indenização na extinção** (bloco VII) — cotejo com art. 36 da Lei 8.987.
+| Onde | Constatação |
+|---|---|
+| Anexo 5 **K.7** × cl. **36.16** | EC 132/2023 tratada como risco do Poder Concedente, com **premissa de proposta pré-EC** (**C-054**). |
+| cl. **26.3** / Anexo 4 **5.1.1** (págs. 81-82, 265) × Anexo 6 **1.3.7** (pág. 288) | Reajuste por cesta IRT (30% INPC + 70% IPCA) enquanto indenização usa IPCA puro (**C-046**). |
 
-## Ressalva final
+**Norma (verificada).** Lei 8.987/1995, art. 9º e art. 10 (política tarifária e equilíbrio);
+Lei 14.133/2021, art. 22 e §§ (matriz de riscos). Reforma tributária: EC 132/2023 e LC 214/2025
+(em implementação — premissa de C-054 precisa ser atualizada).
 
-Nenhuma das teses acima foi confrontada com jurisprudência **localizada** nem teve a
-vigência dos dispositivos confirmada — esses são os dois passos da Fase 4. O peso comercial
-e a decisão de **suscitar agora** (impugnação/esclarecimento) vs. **reservar** (guardar a
-tese para a execução ou para defesa) são **seus**: este memorando mapeia a exposição, não a
-estratégia.
+**Avaliação.** Contradição sobre quem arca com um risco **não desaparece na assinatura**:
+materializa-se no primeiro pleito de reequilíbrio. A decisão de **suscitar agora** ou
+**reservar a tese** para a execução é sua.
 
-*Base factual: itens `C-xxx` em `02_consolidado.md`. Documentos faltantes nomeados em
-`RELATORIO.md`, bloco DEPENDE DE FATO.*
+---
+
+## VI. 🟡 Tarifa atrelada a volume de água e tarifa-base em branco
+
+**Fragilidade.**
+
+| Onde | Constatação |
+|---|---|
+| **Edital, preâmbulo** (pág. 3) | Critério de julgamento = **maior desconto sobre a Tarifa-Base Referencial Máxima**, "*nos termos do art. 15, I, da Lei 8.987/1995*" (menor tarifa). |
+| Anexo 4, item **3.1** (pág. 260) | Tarifa-Base RSD = **"R$ [•]/m³ de água faturado"** — base de cobrança é o **consumo de água** (proxy), e o valor está **em branco** (**C-024**). |
+| Anexos, Quadro 39 (pág. 183) | Divergência numérica da tarifa de Arapuá (**C-007**). |
+
+**Norma (verificada).** Lei 11.445/2007, arts. 29-35 (sustentabilidade econômica e estrutura
+tarifária); Lei 8.987/1995, art. 9º. (O art. 15, I, invocado, de fato corresponde ao critério
+de menor tarifa — a referência está correta.)
+
+**Avaliação.** Tarifa em branco é normal (vem da proposta), mas exige que os demais
+parâmetros estejam fechados — daí a urgência de sanar C-007. A base "m³ de água" como proxy
+de geração de resíduo é prática do setor, porém **vulnerável a questionamento de correlação e
+de modicidade**; depende de fato externo (estudo de correlação) → mantida como 🟡.
+
+---
+
+## VII. 🟠 Indenização na extinção
+
+**Fragilidade.** (Reavaliada — a dispensa de prévia na **caducidade** é legal; o problema é
+outro.)
+
+| Onde | Constatação |
+|---|---|
+| cl. **41.1 e 41.2** (pág. 121) | Cálculo da indenização **remete a regras da ANA ainda não editadas**, com o Anexo 6 só subsidiário (**C-022**). |
+| Cláusulas de caducidade / Anexo 6 | Indenização **limitada**, com amplos descontos (**C-049**, **C-073**). |
+
+**Norma (verificada).** Lei 8.987/1995, **art. 36** (indenização das **parcelas não amortizadas**
+dos bens reversíveis), **art. 37** (encampação — lei autorizativa + indenização **prévia**),
+**art. 38** (caducidade — **independe** de indenização prévia). Lei 14.026/2020 (art. 4º-A da
+Lei 9.984/2000 — competência da ANA para normas de referência sobre indenização).
+
+**Avaliação.** O ponto **não** é a falta de prévia na caducidade (isso é o regime do art. 38).
+O ponto é se as **limitações e descontos** e o reenvio a norma futura da ANA respeitam a
+garantia do **art. 36** (parcelas não amortizadas dos bens reversíveis). Relevante para o
+financiador e para a precificação.
+
+---
+
+## VIII. 🟠 Anexos ausentes / incompletos
+
+| Onde | Constatação | Norma (verificada) |
+|---|---|---|
+| Anexo **11 – Apólices de Seguro** (pág. 300) | "*será disponibilizado separadamente*" — **não juntado**, embora mitigador na cl. 35 e na Matriz (**C-025**). | Lei 14.133/2021, art. 25 (anexos integram o edital e permitem a proposta). |
+| Anexo **7 – Arrolamento de Bens** (págs. 291-292) | Minuta com **campos em branco** (**C-023**). | Lei 8.987/1995, art. 18 e art. 23, X (bens reversíveis). |
+
+**Avaliação.** Anexo de risco "a disponibilizar depois" fragiliza a **completude** do edital
+(o licitante precisa precificar seguro e bens a reverter). Cabe pedido de juntada — ou tese
+de deficiência instrutória.
+
+---
+
+## Síntese — exposição e ação
+
+| Bloco | Fragilidade | Exposição | Movimento natural |
+|---|---|---|---|
+| I | Competência para conceder (Estatuto art. 10 × aditivo não ratificado × 2º aditivo ausente) | 🔴 | Impugnação / requerer documentos |
+| II | Titularidade parcial (9/19) e contratos de programa | 🔴 | Esclarecimento / requerer leis e CP 007 |
+| III | Regulação ARISB não comprovada | 🔴 | Esclarecimento / requerer convênio |
+| IV | Vícios formais (vinculação) | 🟠 | Errata (formais) / impugnação (C-002/003) |
+| V | EEF e matriz de riscos | 🟠 | Suscitar ou reservar |
+| VI | Tarifa proxy de água / base em branco | 🟡 | Estudo de correlação |
+| VII | Indenização vs. art. 36 | 🟠 | Cotejo Anexo 6 × art. 36 |
+| VIII | Anexos 11 e 7 incompletos | 🟠 | Requerer juntada |
+
+**Caíram após verificação:** prazo de publicidade (suficiente, art. 55) e caducidade sem
+prévia (legal, art. 38).
+
+**O que continua sendo seu:** ponderar peso comercial e decidir **suscitar agora** vs.
+**reservar**. Este memorando fixa a exposição e a ancoragem; a estratégia é sua.
+
+*Base factual: itens `C-xxx` em `02_consolidado.md`. Dispositivos conferidos em junho/2026
+(Planalto/Lei 11.445, 11.107, 8.987, 14.133, 14.026). Jurisprudência específica do TCU/TCE-MG
+ainda a localizar (Fase 4) — nenhum acórdão foi citado sem localização.*
