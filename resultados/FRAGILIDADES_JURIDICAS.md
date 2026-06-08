@@ -6,6 +6,14 @@ conferidos em fontes oficiais; encampação/caducidade e prazo de publicidade re
 
 ---
 
+> **Atualização pós-Fase 4 (pesquisa jurídica).** Três pontos mudaram após localizar
+> fontes — ver `FASE4_PESQUISA.md`: (a) o **Convênio ARISB-MG/CISPAR nº 058-2024 existe**
+> → o Bloco III deixa de ser "ausência de regulador" e vira "convênio não juntado aos
+> autos + verificar cobertura dos municípios"; (b) a **base tarifária "consumo de água" é
+> legal** (Lei 11.445, art. 35) → o Bloco VI cai (sobra só o erro numérico C-007); (c) a
+> competência (Blocos I–II) foi **reforçada** com âncora exata: **Lei 11.107, art. 4º, XI,
+> "c"** exige autorização expressa para "outorgar concessão" como cláusula de **validade**.
+
 ## O que a verificação mudou (registro)
 
 Verifiquei os dispositivos e revi quatro pontos do memorando anterior:
