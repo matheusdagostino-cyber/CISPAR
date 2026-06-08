@@ -204,6 +204,50 @@ Situação:      IRREGULAR
 
 ---
 
+ID:            C-104
+IDs de origem: INST-003; INST-004; INST-021
+Localização:   PROTOCOLO_INTENCOES, art. 1º (I–XVIII) (págs. 3-4); ESTATUTO_CISPAR, art. 15 (I–XVIII) (págs. 14-16) × TERMO_ADITIVO_CONSORCIO, art. 1º (I–XIX) (págs. 1-3)
+Trecho:        "I - O MUNICÍPIO DE ARAPUÁ ... XVIII - O MUNICÍPIO DE VARJÃO DE MINAS" (PROTOCOLO/ESTATUTO) × "VI — MUNICÍPIO DE JOÃO PINHEIRO ... XIX — MUNICÍPIO DE VARJÃO DE MINAS" (TERMO ADITIVO CONSOLIDADO)
+Descrição:     Divergência interna direta na lista de entes consorciados entre peças vinculantes do mesmo nível (instrumentos de constituição do consórcio): Protocolo e Estatuto listam 18 municípios; o Termo Aditivo Consolidado lista 19, inserindo JOÃO PINHEIRO (inciso VI), ausente das listas do Protocolo e do Estatuto. A ancoragem em Varjão de Minas (mesmo CNPJ, último inciso em ambas) confirma que a diferença 18×19 decorre da inserção intercalar de João Pinheiro, e não de acréscimo ao final.
+Dispositivo:   Lei 11.107/2005, art. 4º (subscrição/ratificação) [verificar]; Decreto 6.017/2007 [verificar]
+Base factual:  [consta dos autos]
+Situação:      IRREGULAR
+
+---
+
+ID:            C-105
+IDs de origem: INST-013
+Localização:   EDITAL, pág. 3; MINUTA_CONTRATO, preâmbulo (E) (págs. 6-7)
+Trecho:        "(i) ... 001/2025/RS ... Arapuá ... 006/2025/RS ... Patos de Minas; ... 008/2025/RS ... Presidente Olegário; ... 009/2025/RS ... Rio Paranaíba; ... 010/2025/RS ... Serra do Salitre."
+Descrição:     Lacuna de numeração na sequência dos Contratos de Programa relacionados pelo edital/minuta: a numeração salta de 006/2025/RS (Patos de Minas) para 008/2025/RS (Presidente Olegário), sem menção a um Contrato de Programa nº 007/2025/RS. Quebra de sequência numérica interna na peça vinculante que arrola a base de delegação por contrato de programa.
+Dispositivo:   Lei 14.133/2021, art. 5 e art. 25 (vinculação/clareza) [verificar]; Lei 11.107/2005, art. 13 [verificar]
+Base factual:  [consta dos autos]
+Situação:      IRREGULAR
+
+---
+
+ID:            C-106
+IDs de origem: INST-015; INST-014
+Localização:   ESTATUTO_CISPAR, art. 8º, §1º, inciso IX (pág. 10) × art. 10 (pág. 11)
+Trecho:        "IX - Ao planejamento, a fiscalização, a regulação e a prestação dos serviços públicos de saneamento básico [...]" × "os municípios consorciados transferem ao Consórcio CISPAR o exercício das competências de estudo e elaboração de projetos, planejamento, fiscalização e regulação dos serviços públicos."
+Descrição:     Divergência interna do Estatuto quanto ao alcance das competências transferidas: o art. 8º §1º IX inclui a "prestação" dos serviços públicos de saneamento básico, enquanto o art. 10 enumera apenas estudo/projetos/planejamento/fiscalização/regulação, sem "prestação" (nem "concessão"). Contradição entre dispositivos do mesmo instrumento (Estatuto) sobre o objeto da gestão associada. O art. 11 reconhece o município como "titular dos serviços".
+Dispositivo:   Lei 11.107/2005, art. 4º [verificar]; Lei 11.445/2007, art. 8º [verificar]
+Base factual:  [consta dos autos]
+Situação:      IRREGULAR
+
+---
+
+ID:            C-107
+IDs de origem: INST-016
+Localização:   ESTATUTO_CISPAR, art. 2º, §2º (pág. 1) × PROTOCOLO_INTENCOES, art. 2º (pág. 3)
+Trecho:        "Serão automaticamente admitidos no Consórcio os Municípios que efetuarem ratificação em até 2 (dois) anos, a contar da publicação da Ata da Assembleia Estatuinte do Consórcio." (ESTATUTO) × "Será automaticamente admitido [...] o ente [...] que efetuar a ratificação em até 2 (dois) anos da data da primeira subscrição deste instrumento [...]" (PROTOCOLO)
+Descrição:     Divergência interna no marco inicial do prazo de 2 anos para ratificação/adesão automática entre peças vinculantes do mesmo regime: o Estatuto conta da "publicação da Ata da Assembleia Estatuinte"; o Protocolo conta da "data da primeira subscrição". Marcos temporais distintos para o mesmo prazo de adesão.
+Dispositivo:   Lei 11.107/2005, art. 5º (ratificação do protocolo) [verificar]
+Base factual:  [consta dos autos]
+Situação:      IRREGULAR
+
+---
+
 ## DEPENDE DE FATO
 
 ID:            C-019
@@ -400,6 +444,83 @@ Trecho:        "apresentará o PIOCC [...] em até 90 (noventa) dias após a pub
 Descrição:     Encadeamento de prazos em que a publicação do PISEEC no limite de 200 dias pode deslocar a entrega do PIOCC para além do término da Fase 1 (máx. 200 dias). O descompasso efetivo depende da data real de publicação do PISEEC.
 Dispositivo:   [não localizado]
 Base factual:  [depende de fato externo: data efetiva de publicação do PISEEC-CISPAR]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-108
+IDs de origem: INST-001
+Localização:   EDITAL, preâmbulo (pág. 3)
+Trecho:        "Foi assinado o 2º Termo Aditivo ao Contrato de Consórcio Público do CISPAR, que delega ao CISPAR a titularidade do SERVIÇO PÚBLICO DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS (SMRSU)"
+Descrição:     O EDITAL invoca um "2º Termo Aditivo ao Contrato de Consórcio Público do CISPAR" como fundamento da delegação da titularidade do SMRSU. O corpus institucional fornecido contém apenas o "1º Termo Aditivo Consolidado" (TERMO_ADITIVO_CONSORCIO) e o "Projeto de Aditivo" de 08/12/2023 (TERMO_ADITIVO_CISPAR); nenhum dos dois é rotulado "2º Termo Aditivo". A peça nominada pelo edital não consta dos autos fornecidos (lacuna de corpus de documento invocado pelo instrumento convocatório). A (ir)regularidade depende da localização e cotejo do documento faltante.
+Dispositivo:   Lei 11.107/2005, art. 4º (cláusulas do contrato/protocolo) e art. 12 (alteração) [verificar]
+Base factual:  [depende de fato externo: localizar e cotejar o "2º Termo Aditivo ao Contrato de Consórcio do CISPAR" invocado pelo edital, não juntado ao corpus]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-109
+IDs de origem: INST-002
+Localização:   EDITAL, preâmbulo (pág. 3) × TERMO_ADITIVO_CONSORCIO, art. 1º (págs. 1-3)
+Trecho:        "ratificado pelas seguintes Leis Municipais: (i) ... Arapuá; ... (ix) ... Serra do Salitre." (9 municípios) × "I ... XIX — MUNICÍPIO DE VARJÃO DE MINAS" (19 consorciados)
+Descrição:     O EDITAL relaciona 9 municípios que ratificaram por lei a delegação da titularidade do SMRSU, enquanto o universo de consorciados é de 19 (Termo Aditivo Consolidado) / 18 (Protocolo e Estatuto). Não constam dos autos as leis de ratificação dos demais municípios nem a delimitação territorial decorrente. A regularidade da cadeia de titularidade quanto aos entes não listados depende de documento fora dos autos.
+Dispositivo:   Lei 11.445/2007, art. 8º [verificar]; Lei 11.107/2005, art. 13 (contrato de programa) [verificar]
+Base factual:  [depende de fato externo: leis municipais de ratificação da delegação do SMRSU dos demais municípios e abrangência territorial efetiva]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-110
+IDs de origem: INST-006
+Localização:   ESTATUTO_CISPAR, art. 15 (incisos I–XVIII) (págs. 14-16)
+Trecho:        "XVIII - Município de Varjão de Minas-MG, o percentual de 5,65 % ..." (demais municípios "5,55 %")
+Descrição:     O rol de rateio do Estatuto (art. 15) registra para Varjão de Minas percentual divergente (5,65%) frente aos 5,55% dos demais, em trecho expressamente marcado pela varredura como transcrição OCR a conferir no original. Eventual divergência de rateio só se confirma com a conferência do documento original. O aspecto de alinhamento 18 entes (Estatuto) × 19 (Termo Aditivo) já está consolidado em C-104.
+Dispositivo:   [não localizado — divergência interna de rateio, pendente de conferência]
+Base factual:  [depende de fato externo: conferência no original do percentual de rateio de Varjão de Minas no art. 15 do Estatuto (transcrição OCR)]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-111
+IDs de origem: INST-008
+Localização:   TERMO_ADITIVO_CISPAR (Projeto de Aditivo), preâmbulo e Mensagem Presidencial (págs. 1, 6) × EDITAL, preâmbulo (pág. 3)
+Trecho:        "A Presidência do CISPAR encaminha para análise, deliberação e votação a minuta de aditivo ao Contrato de Consórcio ... Patos de Minas, 08 de dezembro de 2023" × "Foi assinado o 2º Termo Aditivo ..."
+Descrição:     A peça TERMO_ADITIVO_CISPAR é nominada "PROJETO DE ADITIVO" / "minuta de aditivo" encaminhada para deliberação e votação, sem registro, no próprio documento, de aprovação/ratificação posterior; o EDITAL refere "2º Termo Aditivo" já "assinado". O status (projeto/minuta vs. aditivo assinado e ratificado) só se resolve com a ata de aprovação e as leis ratificadoras, não juntadas ao corpus.
+Dispositivo:   Lei 11.107/2005, art. 12 (alteração do contrato depende de instrumento aprovado e ratificado por lei) [verificar]
+Base factual:  [depende de fato externo: ata de aprovação e leis ratificadoras do aditivo de 08/12/2023 e sua relação com o "2º Termo Aditivo" referido pelo edital]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-112
+IDs de origem: INST-010
+Localização:   MINUTA_CONTRATO, preâmbulo (parte 3) e def. 1.2.1 (págs. 5-8); EDITAL, pág. 7 × TERMO_ADITIVO_CISPAR, art. 7º §4º (pág. 3)
+Trecho:        "a ARISB-MG, consórcio público ... integrante da administração indireta de todos os MUNICÍPIOS consorciados" × "Caberá ao Presidente do CISPAR, após indicação da Agência Reguladora pela Assembleia Geral, celebrar convênio destinado à regulação e à fiscalização do contrato de concessão"
+Descrição:     A MINUTA afirma que a ARISB-MG já integra a administração indireta de todos os municípios consorciados, enquanto a peça institucional condiciona a regulação à celebração de convênio após indicação da Agência pela Assembleia Geral. Não constam dos autos o convênio CISPAR–ARISB nem o ato de indicação pela Assembleia. A conformidade da afirmação contratual depende desses documentos faltantes.
+Dispositivo:   Lei 11.107/2005, art. 11 (administração indireta de todos os consorciados) [verificar]; Lei 11.445/2007, art. 23 [verificar]
+Base factual:  [depende de fato externo: convênio CISPAR–ARISB-MG, ato de indicação pela Assembleia Geral e ingresso dos municípios do CISPAR na ARISB, não juntados ao corpus]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-113
+IDs de origem: INST-017
+Localização:   EDITAL, preâmbulo (pág. 3)
+Trecho:        "nos termos do art. 8º, §1º, da Lei Federal nº 11.445, de 5 de janeiro de 2007 ... pela Resolução CISPAR nº 01, de 14 de abril de 2023"
+Descrição:     O EDITAL fundamenta a concessão, entre outros, na "Resolução CISPAR nº 01, de 14 de abril de 2023", documento invocado pelo instrumento convocatório que não consta do corpus institucional fornecido. A aferição da base normativa interna habilitante depende da juntada e cotejo da Resolução faltante.
+Dispositivo:   Lei 11.445/2007, art. 8º, §1º [verificar]; Lei 14.026/2020 [verificar]
+Base factual:  [depende de fato externo: Resolução CISPAR nº 01/2023, invocada pelo edital e não juntada ao corpus]
+Situação:      DEPENDE DE FATO
+
+---
+
+ID:            C-114
+IDs de origem: INST-018
+Localização:   TERMO_ADITIVO_CISPAR, página de assinaturas (págs. 4-5)
+Trecho:        "Prefeito de ... Pirapora ... Prefeito de ... Paracatu ..." (folha de assinaturas)
+Descrição:     A página de assinaturas do Projeto de Aditivo (08/12/2023) inclui, na transcrição OCR, PIRAPORA e PARACATU como signatários — municípios que não constam do rol de consorciados (Protocolo 18, Estatuto 18, Termo Aditivo Consolidado 19). O trecho é expressamente marcado pela varredura como folha de assinaturas com ruído de OCR, a conferir no original; a condição de consorciado desses entes na data da assinatura depende de documento/conferência fora dos autos.
+Dispositivo:   Lei 11.107/2005, art. 4º (somente subscritores/consorciados deliberam) [verificar]
+Base factual:  [depende de fato externo: condição de consorciado de Pirapora e Paracatu na data da assinatura e conferência da folha de assinaturas no original (transcrição OCR)]
 Situação:      DEPENDE DE FATO
 
 ---
@@ -880,11 +1001,11 @@ Situação:      CONFORME
 ---
 
 ID:            C-080
-IDs de origem: CONC-064; CONC-065
-Localização:   TERMO_ADITIVO_CISPAR, Art. 1º e Art. 7º §§3º-5º (págs. 1, 3)
-Trecho:        "celebrar convenio destinado a regulacao e a fiscalizacao do contrato de concessao" / "metodologia de calculo de indenizacoes [...] serao definidas em contrato"
-Descrição:     Termo aditivo confere ao CISPAR competência para conceder serviços de RSU (Lei 8.987/1995) e remete indenizações/contabilidade regulatória ao contrato. Fundamento estatutário; sem dispositivo nomeado em descompasso.
-Dispositivo:   Lei 11.107/2005 [verificar]; Lei 8.987/1995 [verificar]; Lei 11.445/2007, art. 23 [verificar]
+IDs de origem: CONC-064; CONC-065; INST-007; INST-019
+Localização:   TERMO_ADITIVO_CISPAR (Projeto de Aditivo, 08/12/2023), Art. 1º e Art. 7º §§3º-5º (págs. 1, 3); TERMO_ADITIVO_CONSORCIO, art. 6º §2º XI e art. 7º I "k" / áreas III "c" e "i" (págs. 5-6)
+Trecho:        "conceder a exec[ução] dessas atividades, nos termos da Lei 8.987/95" / "celebrar convenio destinado a regulacao e a fiscalizacao do contrato de concessao" / "Xl - outorgar concessão, permissão ou autorização de obras ou serviços públicos [...]" / "k) concessão de prestação de serviços de transporte público urbano."
+Descrição:     O Projeto de Aditivo de 08/12/2023 introduz a competência do CISPAR para CONCEDER a execução dos serviços de RSU "nos termos da Lei 8.987/95" (altera a alínea "c", inc. III, do art. 7º do contrato) e remete indenizações/contabilidade regulatória ao contrato. A habilitação específica para conceder RSU sob a Lei 8.987/95 não figura na versão consolidada do contrato de consórcio (TERMO_ADITIVO_CONSORCIO prevê o poder genérico de "outorgar concessão" no art. 6º §2º XI e, nominalmente, apenas concessão de transporte urbano no art. 7º I "k"; para RSU refere "tratamento adequado de RSU" sem cláusula expressa de concessão). Fundamento estatutário da competência concedente; descompasso de cobertura entre a versão consolidada e o aditivo de 2023 (sendo o status de aprovação/ratificação desse aditivo objeto de C-108 e C-111). Sem dispositivo nomeado em descompasso interno verificável entre peças de mesmo nível.
+Dispositivo:   Lei 11.107/2005, art. 2º §1º III [verificar]; Lei 8.987/1995 [verificar]; Lei 11.445/2007, art. 23 [verificar]
 Base factual:  [consta dos autos]
 Situação:      CONFORME
 
@@ -1143,18 +1264,91 @@ Situação:      CONFORME
 
 ---
 
+ID:            C-115
+IDs de origem: INST-005
+Localização:   TERMO_ADITIVO_CONSORCIO, art. 1º, §1º (incisos I–II) (pág. 3)
+Trecho:        "§ 1º Poderão vir a integrar o CISPAR, os seguintes municípios: I — MUNICÍPIO DE LAGOA GRANDE ... II — MUNICÍPIO DE TRÊS MARIAS ..."
+Descrição:     O Termo Aditivo Consolidado prevê Lagoa Grande e Três Marias como municípios que "poderão vir a integrar" o CISPAR (futuros, dependentes de ratificação em até 2 anos). Não figuram como consorciados efetivos; registro descritivo do universo de entes citados. Sem dispositivo nomeado em descompasso nem contradição interna.
+Dispositivo:   Lei 11.107/2005, art. 4º [verificar]
+Base factual:  [consta dos autos]
+Situação:      CONFORME
+
+---
+
+ID:            C-116
+IDs de origem: INST-009
+Localização:   TERMO_ADITIVO_CISPAR, art. 7º (§4º acrescido ao art. 48) (pág. 3)
+Trecho:        "§4° Caberá ao Presidente do CISPAR, após indicação da Agência Reguladora pela Assembleia Geral, celebrar convênio destinado à regulação e à fiscalização do contrato de concessão de manejo de resíduos sólidos urbanos."
+Descrição:     A norma institucional condiciona a regulação à indicação da Agência Reguladora pela Assembleia Geral e à celebração de convênio pelo Presidente. Registro descritivo da existência do requisito de governança; sem dispositivo nomeado em descompasso e sem contradição interna (a lacuna do convênio/indicação está capturada, como pendência de fato, em C-112).
+Dispositivo:   Lei 11.445/2007, art. 23 [verificar]; Lei 14.026/2020 [verificar]
+Base factual:  [consta dos autos]
+Situação:      CONFORME
+
+---
+
+ID:            C-117
+IDs de origem: INST-011
+Localização:   EDITAL, def. 1.1.53 (pág. 14); MINUTA_CONTRATO, def. 1.2.87
+Trecho:        "PODER CONCEDENTE: o CISPAR, nos termos da Lei Federal nº 8.987/1995 e do art. 8º, §[1º] [...]"
+Descrição:     Edital e minuta qualificam o CISPAR como "PODER CONCEDENTE" com base na Lei 8.987/1995 e no art. 8º da Lei 11.445/2007. Ponto descritivo da qualificação; a suficiência da cadeia de titularidade que a sustenta é matéria de fato já capturada em C-108 (2º Termo Aditivo ausente) e C-109 (ratificações parciais). Sem contradição interna entre as peças que fazem a qualificação.
+Dispositivo:   Lei 8.987/1995, art. 2º [verificar]; Lei 11.445/2007, art. 8º, §1º [verificar]
+Base factual:  [consta dos autos]
+Situação:      CONFORME
+
+---
+
+ID:            C-118
+IDs de origem: INST-012
+Localização:   MINUTA_CONTRATO, def. 1.2.26; ESTATUTO_CISPAR, art. 10 par. único e arts. 12-13
+Trecho:        "CONSÓRCIO PÚBLICO: o CISPAR, que figura nesta avença como PODER CONCEDENTE, enquanto delegatário dos MUNICÍPIOS e observadas as leis municipais e seus atos [...]"
+Descrição:     A MINUTA caracteriza o CISPAR como delegatário dos municípios, operando a delegação por contrato de programa (Estatuto art. 10 par. único; arts. 12-13). Registro descritivo do nexo delegação–contrato de programa; a lacuna de numeração dos contratos de programa (nº 007) está consolidada, como irregularidade interna, em C-105. Sem contradição interna própria neste item.
+Dispositivo:   Lei 11.107/2005, art. 13 [verificar]
+Base factual:  [consta dos autos]
+Situação:      CONFORME
+
+---
+
+ID:            C-119
+IDs de origem: INST-020
+Localização:   ESTATUTO_CISPAR, art. 25 (pág. 19); TERMO_ADITIVO_CONSORCIO, art. 3º (pág. 4)
+Trecho:        "tornando-se nula a cláusula que não respeitar [...] a Lei Federal nº. 11.107, de 06 de abril de 2005, regulamentada pelo Decreto nº. 6.017 [...]" / "associação pública [...] conforme estabelece a Lei Federal nº 11.107/2005 e suas alterações."
+Descrição:     As peças ancoram o consórcio na Lei 11.107/2005 e no Decreto 6.017/2007. Ancoragem normativa neutra (aderência declarada ao regime de consórcios públicos), sem norma em contradição nem descompasso interno.
+Dispositivo:   Lei 11.107/2005 [verificar]; Decreto 6.017/2007 [verificar]
+Base factual:  [consta dos autos]
+Situação:      CONFORME
+
+---
+
+ID:            C-120
+IDs de origem: INST-022
+Localização:   EDITAL, cláusula 3.4 / 3.4.1
+Trecho:        "estará condicionada à formalização de termo aditivo ao CONTRATO DE [CONCESSÃO] ... mediante a celebração de termo aditivo ao [...]"
+Descrição:     O EDITAL prevê expansão/alteração do objeto mediante termo aditivo ao contrato de concessão. Registro descritivo de governança da concessão (futura ampliação); cláusula com trecho truncado na transcrição OCR. Ponto meramente descritivo, sem norma em contradição nem divergência numérica/remissão quebrada fechada — a (in)completude de redação não constitui contradição interna verificável neste item.
+Dispositivo:   Lei 8.987/1995, art. 23 [verificar]
+Base factual:  [consta dos autos]
+Situação:      CONFORME
+
+---
+
 ## Quadro-resumo
 
 | Métrica | Valor |
 |---|---|
-| Itens brutos de entrada | 175 (CONC 67; LIC 32; RISC 52; ENC 24) |
-| Total de itens consolidados | 103 |
-| Itens brutos fundidos no dedup | 72 (175 − 103) |
-| IRREGULAR | 18 |
-| DEPENDE DE FATO | 18 |
-| CONFORME | 67 |
+| Itens brutos de entrada | 197 (CONC 67; LIC 32; RISC 52; ENC 24; INST 22) |
+| Total de itens consolidados | 120 |
+| Itens brutos fundidos no dedup | 77 (197 − 120) |
+| IRREGULAR | 22 |
+| DEPENDE DE FATO | 25 |
+| CONFORME | 73 |
+
+Incorporação do inventário institucional (INST-001 a INST-022):
+- 17 itens consolidados novos (C-104 a C-120) carregando 20 IDs INST; 2 IDs INST (INST-007, INST-019) fundidos ao item pré-existente C-080 (competência concedente do consórcio — Projeto de Aditivo 08/12/2023 × Termo Aditivo Consolidado).
+- Agrupamentos internos: INST-003/004/021 → C-104 (lista 18×19, inserção de João Pinheiro); INST-014/015 → C-106 (Estatuto art. 8º §1º IX × art. 10).
+- 4 IRREGULAR novas (C-104 a C-107): todas contradições internas diretas entre peças vinculantes do mesmo nível (lista de municípios; competência prestação/concessão no Estatuto; marco do prazo de ratificação Estatuto × Protocolo; lacuna de numeração do Contrato de Programa nº 007).
+- 7 DEPENDE DE FATO novas (C-108 a C-114): lacunas de corpus / conferência (2º Termo Aditivo ausente; ratificações parciais; rateio OCR de Varjão; status do aditivo de 2023; convênio CISPAR–ARISB ausente; Resolução CISPAR 01/2023 ausente; folha de assinaturas OCR Pirapora/Paracatu). Itens marcados "[transcrição OCR — conferir no original]" (INST-006, INST-018) tratados como DEPENDE DE FATO, nunca IRREGULAR isolada por OCR.
+- 6 CONFORME novas (C-115 a C-120): registros descritivos/ancoragem neutra (municípios futuros; requisito de convênio; qualificação de poder concedente; nexo delegação–contrato de programa; ancoragem na Lei 11.107/2005; previsão de termo aditivo de ampliação).
 
 Notas metodológicas:
-- Todas as 18 IRREGULAR são contradições internas verificáveis (divergência numérica, remissão cruzada quebrada, prazos incompatíveis entre peças do mesmo edital, divergência de escopo ou terminológica entre cláusulas vinculantes), ancoradas no dever de vinculação ao instrumento convocatório/clareza — Lei 14.133/2021, art. 5 e art. 25 "[verificar]" (ou Lei 8.987/1995 conforme o caso). Nenhum item recebeu IRREGULAR por descompasso com dispositivo externo, pois todas as remissões normativas das varreduras vieram marcadas "[verificar]" (vigência não confirmada), o que, na ausência de contradição interna, conduz a CONFORME (tese discutível não confirmada) ou DEPENDE DE FATO.
+- Todas as 22 IRREGULAR são contradições internas verificáveis (divergência numérica, remissão cruzada quebrada, prazos incompatíveis entre peças do mesmo edital, divergência de escopo ou terminológica entre cláusulas vinculantes; e, na camada institucional, lista de municípios 18×19, divergência interna do Estatuto art. 8º §1º IX × art. 10, marco do prazo de ratificação Estatuto × Protocolo e lacuna de numeração de Contrato de Programa), ancoradas no dever de vinculação ao instrumento convocatório/clareza — Lei 14.133/2021, art. 5 e art. 25 "[verificar]", ou no regime dos consórcios públicos (Lei 11.107/2005, art. 4º [verificar]) e Lei 8.987/1995 conforme o caso. Nenhum item recebeu IRREGULAR por descompasso com dispositivo externo, pois todas as remissões normativas das varreduras vieram marcadas "[verificar]" (vigência não confirmada), o que, na ausência de contradição interna, conduz a CONFORME (tese discutível não confirmada) ou DEPENDE DE FATO.
 - Divergências estudo × caderno (ENC-005/006/011/024) foram carimbadas CONFORME quando o conflito é entre peça de instrução (estudos, sem força normativa) e cláusula vinculante, ou quando se resolvem por leitura/contagem distinta — reservando a contradição interna aos conflitos entre peças de mesmo nível normativo do edital/contrato.
 - Sobreposições esperadas entre Concessão e Riscos foram unidas: inadimplência de municípios (C-002), força maior 2 vs 1 ano (C-003), fluxo de caixa marginal (C-050), garantia decrescente (C-063), EC 132/2023 (C-054).
